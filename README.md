@@ -4,4 +4,4 @@ This template provides a minimal usage to get Google Maps working in React + Vit
 
 Check this out here: 
 
-### [Google Maps w/ React + Vite ⚡](www.dfoof)️
+### [Google Maps w/ React + Vite ⚡](https://shkholikov.github.io/vite-g-maps/)️
